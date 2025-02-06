@@ -1,3 +1,4 @@
+# Je suis le collègue de Félix-Antoine et j'ai modifié ce code en y ajoutant ce commentaire
 import time
 
 x = int(1)
