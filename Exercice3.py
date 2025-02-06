@@ -18,4 +18,4 @@ def start_timer(seconds, callback):
 # Start a 5-second timer with a callback
 start_timer(5, my_callback)
 
-
+# Modification test 1
